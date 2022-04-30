@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-project-bank/static/css/main.b8987998.css",
+    "main.js": "/react-project-bank/static/js/main.3e8fb708.js",
+    "static/media/growth.svg": "/react-project-bank/static/media/growth.f34c9905281da23ee96b.svg",
+    "static/media/checkmark.svg": "/react-project-bank/static/media/checkmark.2e3e302a020d2ef78291.svg",
+    "static/media/pencil.svg": "/react-project-bank/static/media/pencil.63adce9d9782fa44d1d4.svg",
+    "static/media/delete.svg": "/react-project-bank/static/media/delete.280f3562b45a53c2d37e.svg",
+    "index.html": "/react-project-bank/index.html",
+    "static/media/wallet.svg": "/react-project-bank/static/media/wallet.f2efe0e5eaa08283115a.svg",
+    "main.b8987998.css.map": "/react-project-bank/static/css/main.b8987998.css.map",
+    "main.3e8fb708.js.map": "/react-project-bank/static/js/main.3e8fb708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8987998.css",
+    "static/js/main.3e8fb708.js"
+  ]
+}
